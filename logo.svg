@@ -1,0 +1,6 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="50" fill="red" />
+    <text x="20" y="90" font-family="Arial" font-size="20" fill="white">
+      kat
+    </text>
+  </svg>
