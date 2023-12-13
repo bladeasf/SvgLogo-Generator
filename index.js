@@ -25,8 +25,8 @@ async function run() {
   console.log(svgLogo);
 
 
-  fs.writeFileSync('circle.svg', svgLogo, 'utf-8');
-  console.log('SVG saved to circle.svg');
+  fs.writeFileSync('logo.svg', svgLogo, 'utf-8');
+  console.log('SVG saved to logo.svg');
 }
 
 function generateSVGLogo({ firstName, shape, favoriteColor }) {
